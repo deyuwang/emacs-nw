@@ -7,6 +7,9 @@ Integration nodewebkit and emacs
 
  * Auto synchron content between nodewebkit and emacs
 
+## Screenshot
+	![](https://github.com/deyuwang/emacs-nw/blob/master/images/img.gif)
+
 ## Installation
 - install nodewebkit
 	- [https://github.com/shama/nodewebkit](https://github.com/shama/nodewebkit)
